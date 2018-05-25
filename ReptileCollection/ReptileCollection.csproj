@@ -156,6 +156,7 @@
     <Compile Include="Models\Animal.cs" />
     <Compile Include="Models\IAmphibian.cs" />
     <Compile Include="Models\IReptilian.cs" />
+    <Compile Include="Models\AnimalWeight.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
