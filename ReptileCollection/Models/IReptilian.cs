@@ -7,5 +7,6 @@ namespace ReptileCollection.Models
 {
     public interface IReptilian
     {
+        
     }
 }
